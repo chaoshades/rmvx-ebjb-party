@@ -8,6 +8,7 @@ Adds a party changer, multiple independant parties and battle formations with cu
 - [Documentation](#documentation)
 - [Contributing](#contributing)
 - [Creators](#creators)
+- [Credits](#credits)
 
 ## Quick start
 
